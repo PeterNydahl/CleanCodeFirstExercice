@@ -1,0 +1,14 @@
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\bin\Debug\net8.0\CleanCodeExersise0.1.exe
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\bin\Debug\net8.0\CleanCodeExersise0.1.deps.json
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\bin\Debug\net8.0\CleanCodeExersise0.1.runtimeconfig.json
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\bin\Debug\net8.0\CleanCodeExersise0.1.dll
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\bin\Debug\net8.0\CleanCodeExersise0.1.pdb
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\obj\Debug\net8.0\CleanCodeExersise0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\obj\Debug\net8.0\CleanCodeExersise0.1.AssemblyInfoInputs.cache
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\obj\Debug\net8.0\CleanCodeExersise0.1.AssemblyInfo.cs
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\obj\Debug\net8.0\CleanCodeExersise0.1.csproj.CoreCompileInputs.cache
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\obj\Debug\net8.0\CleanCodeExersise0.1.dll
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\obj\Debug\net8.0\refint\CleanCodeExersise0.1.dll
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\obj\Debug\net8.0\CleanCodeExersise0.1.pdb
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\obj\Debug\net8.0\CleanCodeExersise0.1.genruntimeconfig.cache
+C:\Users\Dator6\source\repos\CleanCodeExersise0.1\CleanCodeExersise0.1\obj\Debug\net8.0\ref\CleanCodeExersise0.1.dll
